@@ -19,6 +19,7 @@ body {
   font-weight: 400;
   font-style: normal;
   background-color: oklch(14.7% 0.004 49.25);
+  color: oklch(98.5% 0.001 106.423);
 }
 
 #meme {
@@ -41,6 +42,7 @@ img {
   border-radius: .25rem;
   font-size: 1.2em;
   box-shadow: 0 4px 6px -1px rgb(0 0 0 / 0.1), 0 2px 4px -2px rgb(0 0 0 / 0.1);
+  color: oklch(14.7% 0.004 49.25);
 }
 
 #yourDomain {
